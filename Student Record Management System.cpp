@@ -1,4 +1,4 @@
-//project- student management system
+//project- student Record management system
 
 #include<iostream>
 #include<fstream>
